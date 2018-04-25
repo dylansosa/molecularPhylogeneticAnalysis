@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# courtesy of SMART database, not my own work
 use strict;
 use HTTP::Request::Common;
 use LWP::UserAgent;
